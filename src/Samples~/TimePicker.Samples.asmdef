@@ -1,0 +1,16 @@
+{
+    "name": "TimePicker.Samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:01c94863955c4f142987b40ab29fb4c4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

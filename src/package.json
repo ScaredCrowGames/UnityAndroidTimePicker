@@ -1,0 +1,22 @@
+{
+  "name": "com.scaredcrowgames.androidtimepicker",
+  "version": "1.0.0",
+  "displayName": "Android Time Picker",
+  "description": "Android native time picker for Unity",
+  "unity": "2021.3",
+  "author": {
+    "name": "Scared Crow Games",
+    "email": "scared.crow.games.official@gmail.com"
+  },
+  "keywords": ["android", "native", "time", "picker"],
+"documentationUrl": "https://github.com/ScaredCrowGames/UnityAndroidTimePicker",
+"changelogUrl": "https://github.com/ScaredCrowGames/UnityAndroidTimePicker/releases",
+"licensesUrl": "https://github.com/ScaredCrowGames/UnityAndroidTimePicker/blob/main/LICENSE",
+  "samples": [
+    {
+      "displayName": "Android Time Picker Demo",
+      "description": "A sample scene and script showing how to use the time picker",
+      "path": "Samples~"
+    }
+  ]
+}
