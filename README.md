@@ -4,6 +4,7 @@
 - [Installation](#installation)
 - [How to use](#how-to-use)
 - [Contact us](#contact-us)
+- [Related repositories](#related-repositories)
 
 ## Installation
 
@@ -61,3 +62,8 @@ class UnityEditorTimePicker : ITimePicker
 ## Contact us
 > [!TIP]
 > All discussions, requests and bug reports can be left in the corresponding [Discord channel](https://discord.gg/Xdp8kwMKya) or here in Discussions
+
+## Related repositories
+Here are some related projects you might find useful:
+- [Android option picker](https://github.com/ScaredCrowGames/UnityAndroidOptionPicker) – Native Android option picker for Unity
+- [Android date picker](https://github.com/ScaredCrowGames/UnityAndroidDatePicker) – Native Android date picker for Unity
