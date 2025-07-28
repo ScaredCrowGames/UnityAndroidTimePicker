@@ -20,7 +20,7 @@ https://github.com/scaredcrowgames/androidtimepicker.git?path=src
 ```json
 "com.scaredcrowgames.androidtimepicker": "https://github.com/scaredcrowgames/androidtimepicker.git?path=src"
 ```
-3. Get it from [Unity Asset Store](https://assetstore.unity.com/packages/slug/327347)
+3. Get it from [Unity Asset Store](https://assetstore.unity.com/packages/slug/327347) (Will be available soon)
 
 ## How to use
 
